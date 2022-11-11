@@ -1,0 +1,13 @@
+﻿OLD,Column Name,Column Query,Avg,Value at 75% Perc,Score Mult Calculation
+,no_pubs,count(id_author),2.13,2,4
+,no_first,count(first_author),0.000143,0,10
+,avg_fwci,avg(FWCI),0.663,0.83,9.638554217
+,avg_fwvi,avg(FWVI),0.99,1.48,5.405405405
+,avg_citescore,avg(CiteScore,3.13,4.8,1.666666667
+,,,,,
+NEW,Column Name,Column Query,Avg,Value at 75% Perc,Score Mult Calculation
+,no_pubs,count(id_author),1.9,2,4
+,no_first,count(first_author),0.000717,0,10
+,avg_fwci,avg(FWCI),0.59,0.73,10.95890411
+,avg_fwvi,avg(FWVI),0.86,1.31,6.106870229
+,avg_citescore,avg(CiteScore),3.61,5.6,1.428571429
